@@ -13,7 +13,7 @@ spring:
     password: green502
     #mybatis
 mybatis:
-  type-aliases-package: com.green.boardver2
+  type-aliases-package: com.green.boardver2.model
   mapper-locations: mapper/**/*.xml
 
 #SWAGGER
